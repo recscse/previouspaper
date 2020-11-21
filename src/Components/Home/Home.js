@@ -4,8 +4,16 @@ import "./home.css"
 const Home=()=>{
     return(
         <div>
-            <img src={imgs} className="imgs" alt={"logo"}></img>
-            <h3>Home PAge</h3>
+            
+            <h3>Home Page</h3>
+            <img src={imgs} className="imgs" alt={"logo"}></img> 
+            <p>
+                
+            Get you previous Year Papre and Check your Potential and get the right path to ace in your career
+            
+            </p> 
+            
+            
           
         </div>
     )
